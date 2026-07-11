@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "exportedAt": 1783759394401,
+  "exportedAt": 1783759514020,
   "books": [
+    {
+      "title": "Simply Maths",
+      "author": "DK Publishing",
+      "isbn": "9780241515686",
+      "publisher": "Kindersley Ltd., Dorling",
+      "publishedYear": 2022,
+      "coverUrl": "covers/e226cdb022db7721.jpg",
+      "ageGroup": "above-10"
+    },
     {
       "title": "Short Stories in German for Beginners: Read for Pleasure at Your Level and Learn German the Fun Way",
       "author": "Olly Richards",
