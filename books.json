@@ -1,30 +1,16 @@
 {
   "schemaVersion": 1,
-  "exportedAt": 1783759848030,
+  "exportedAt": 1784657289896,
   "books": [
     {
-      "title": "Simply Maths",
-      "author": "DK Publishing",
-      "isbn": "9780241515686",
-      "publisher": "Kindersley Ltd., Dorling",
-      "publishedYear": 2022,
-      "coverUrl": "covers/e226cdb022db7721.jpg",
-      "ageGroup": "above-10"
-    },
-    {
-      "title": "Short Stories in German for Beginners: Read for Pleasure at Your Level and Learn German the Fun Way",
-      "author": "Olly Richards",
-      "isbn": "9781473683372",
-      "publisher": "Hodder & Stoughton",
-      "publishedYear": 2018,
-      "genre": "Fiction, short stories (single author)",
-      "coverUrl": "covers/4b5fe1fa1c01c7de.jpg",
-      "ageGroup": "above-10"
-    },
-    {
-      "title": "Quick and Easy Way to Learn German [Paperback] [Jan 01, 2005] Arati Nilen",
-      "isbn": "9788187838036",
-      "coverUrl": "covers/96d885a2b3bb10ae.jpg"
+      "title": "Why Machines Learn: The Elegant Maths Behind Modern AI",
+      "author": "Anil Ananthaswamy",
+      "isbn": "9781802060867",
+      "publisher": "Penguin Books, Limited",
+      "publishedYear": 2025,
+      "genre": "Science",
+      "coverUrl": "covers/38263a64ff88edf7.jpg",
+      "ageGroup": "above-15"
     }
   ]
 }
